@@ -1,5 +1,5 @@
 
-#Web Stack Outage Postmortem: Service Degradation and Downtime
+# Web Stack Outage Postmortem: Service Degradation and Downtime
 
 Issue Summary:
 Duration: June 15, 2023, 08:00 AM - June 15, 2023, 10:30 AM (UTC-5)
